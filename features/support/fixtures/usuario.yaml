@@ -1,0 +1,17 @@
+Usuario:
+  fist_name: "Usuário"
+  last_name: "teste 01"
+  addres: "endereço de teste"
+  email_adress: "teste@teste.com"
+  phone: "9493948909"
+  gender: "FeMale"
+  hobbies: ""
+  language: ["Portuguese"]
+  skills: "Android"
+  Country: "Brazil"
+  select_coutry:
+  year: 1970
+  month: 'June'
+  day: 3
+  password: "Usuario001"
+  confirm_password: "Usuario001"

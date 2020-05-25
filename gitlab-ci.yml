@@ -1,0 +1,11 @@
+image: '19782007/ruby-crhomedriver:lastet'
+  
+stages:
+  - test
+  
+run_scripts:
+  stage: test
+  script:
+    - bundle install
+    - bundle exec cucumber
+  
